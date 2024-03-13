@@ -1,0 +1,468 @@
+
+.NameContainer{
+	 display: flex;
+     align-items: center;
+    justify-content: center;
+	
+}
+#name{
+	text-transform: uppercase;
+    margin: 3px;
+    padding:0px;
+}
+.Email{
+	 display: flex;
+     align-items: center;
+     justify-content: center;
+     position: relative;
+    
+     bottom:25px;
+}
+a{
+	 text-decoration: none;
+}
+.small{
+	
+	 position: relative;
+     left: 3px;
+     bottom:0px;
+}
+.no{
+	position:relative;
+	left:3px
+	
+}
+.small2{
+	position: relative;
+    left:3px
+	
+}
+.native{
+	position: relative;
+	left: 5px;
+	}
+
+
+.educations{
+	
+	 position:relative;
+	margin:0px;
+	top: 40px;
+	left: 105px;
+	 
+
+}
+
+	
+	
+.college{
+	position: relative;
+	margin:0px;
+	top: 50;
+	left: 115;
+	
+}
+.course{
+	position: relative;
+	margin:0px;
+	top: 55;
+	left: 115;
+	
+}
+.Year{
+	position: relative;
+	margin:0px;
+	top: 60;
+	left: 115;
+	
+}
+.collegeplace{
+	position: relative;
+	margin:0px;
+	top: 65;
+	left: 115;
+	
+}
+.cgpa{
+	position: relative;
+	margin:0px;
+	top: 70;
+	left: 115;
+	
+	
+}
+.highschool{
+position: relative;
+	margin:0px;
+	top: 95;
+	left: 115;
+	
+}
+.hsc{
+	position: relative;
+	margin:0px;
+	top: 100;
+	left: 115;
+	
+}
+.schoolplace{
+	position: relative;
+	margin:0px;
+	top: 100;
+	left: 115;
+	
+	
+}
+.small3{
+	position: relative;
+	margin:0px;
+	top: 82;
+	left: 205;
+}
+.percentage{
+	position: relative;
+	margin:0px;
+	top: 67;
+	left: 215;
+}
+
+.school{
+	position: relative;
+	margin:0px;
+	top: 92;
+	left: 115;
+}
+
+.ssc{
+   position: relative;
+	margin:0px;
+	top: 97;
+	left: 115;
+	
+}
+
+.sscplace{
+	position: relative;
+	margin:0px;
+	top: 80;
+	left: 115;
+	
+	
+}
+.small4{
+	position: relative;
+	margin:0px;
+	top: 95;
+	left: 205;
+	
+	}
+.sscpercentage{
+	position: relative;
+	margin:0px;
+	top: 65;
+	left: 215;
+	
+	
+}
+
+.skills{
+	 position:relative;
+	margin:0px;
+	top: 80px;
+	left: 105px;
+	 
+
+
+	
+}
+.program{
+ position:relative;
+	margin:0px;
+	top: 85px;
+	left: 115;
+	 
+	}
+.java{
+	position:relative;
+	margin:0px;
+	top: 93px;
+	left:105px;
+}
+.sql{
+	position:relative;
+	margin:0px;
+	bottom: 19px;
+	left:57px;
+	
+}
+.javascript{
+	position:relative;
+	margin:0px;
+	bottom:36px;
+	left:117px
+	
+}
+.html{
+	position:relative;
+	margin:0px;
+	bottom:33px;
+	
+}
+.css{
+	position:relative;
+	margin:0px;
+	bottom:51px;
+	left:69px;
+}
+.bootstrap{
+	position:relative;
+	margin:0px;
+	left:120px;
+	bottom:69px
+}
+.datastructure{
+		position:relative;
+	    margin:0px;
+	    bottom:65px
+	
+}
+.familiar{
+	 position:relative;
+	margin:0px;
+	top: 50px;
+	left: 105px;
+	
+}
+.gith{
+	 position:relative;
+	margin:0px;
+	top: 55px;
+	left:105px;
+	
+}
+.figma{
+	position:relative;
+	margin:0px;
+	bottom: 19px;
+	left:97px;
+}
+.mysql{
+	position:relative;
+	margin:0px;
+	bottom: 37px;
+	left: 180;
+	
+}
+
+.links{
+	
+    position:relative;
+	margin:0px;
+	top: 60px;
+	left: 105px;
+}
+.gitlink{
+	 position:relative;
+	 margin:0px;
+	top: 70px;
+	left: 115px;
+	
+}
+.linkedin{
+	 position:relative;
+	 margin:0px;
+	top: 92px;
+	left:50px;
+	
+}
+.area{
+		
+    position:relative;
+	margin:0px;
+	top: 110px;
+	left: 105px;
+	 
+}
+.itdesignation{
+	margin:0px;
+}
+.designation1{
+		
+    position:relative;
+	margin:0px;
+	top: 120px;
+	left: 115px;
+}
+.designation2{
+    position:relative;
+	margin:0px;
+	top: 130px;
+	left: 115px;
+	
+}
+.projects{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.project{
+	 position:absolute;
+	margin:0px;
+	left: 850px;
+	bottom: 530px;
+	
+}
+.projectname{
+	 position:absolute;
+	margin:0px;
+	left: 870px;
+	bottom: 510px;
+}
+.smallline5{
+	 position:absolute;
+	margin:0px;
+	bottom: 512px;
+	left: 1140px;
+	
+}
+.website{
+	 position:absolute;
+	margin:0px;
+	bottom: 510px;
+	left: 1150px;
+}
+.projectfinishdate{
+	 position:absolute;
+	margin:0px;
+	bottom: 485px;
+	left: 870px;
+}
+
+.smallline6{
+	 position:absolute;
+	margin:0px;
+	bottom: 488px;
+	left: 1080px;
+	
+}
+.projectfinishplace{
+	  position:absolute;
+	margin:0px;
+	bottom: 485px;
+	left: 1090px;
+	
+}
+.projectabout1{
+	width: 350px;
+	position:absolute;
+	margin:0px;
+	bottom: 405px;
+	left: 870px;
+	 
+}
+.projectabout2{
+	width: 350px;
+	position:absolute;
+	margin:0px;
+	bottom: 300px;
+	left: 870px;
+	
+}
+.projectname2{
+	position:absolute;
+	margin:0px;
+	left: 870px;
+	bottom: 260px;
+	
+}
+.projectfinishdate2{
+	position:absolute;
+	margin:0px;
+	left: 870px;
+	bottom: 230px;
+	
+	
+}
+.smallline7{
+	position:absolute;
+	margin:0px;
+	left: 1080px;
+	bottom: 233px;
+	
+}
+.projectfinishplace2{
+	position:absolute;
+	margin:0px;
+	left: 1090px;
+	bottom: 230px;
+	
+}
+.projectabout3{
+	width: 350px;
+	position:absolute;
+	margin:0px;
+	bottom: 165px;
+	left: 870px;
+	 
+	
+}
+.projectabout4{
+	width: 350px;
+	position:absolute;
+	margin:0px;
+	bottom: 100px;
+	left: 870px;
+	
+}
+.projectname3{
+	width: 500px;
+	position:absolute;
+	margin:0px;
+	left: 870px;
+	bottom: 45px;
+	
+	
+}
+.projectfinishdate3{
+	width: 500px;
+	position:absolute;
+	margin:0px;
+	left: 870px;
+	bottom: 20px;
+	
+}
+.smallline8{
+	position:absolute;
+	margin:0px;
+	left: 1080px;
+	bottom: 23px;
+	
+}
+.projectfinishplace3{
+	width: 500px;
+	position:absolute;
+	margin:0px;
+	left: 1090px;
+	bottom: 20px;
+	
+}
+.projectabout5{
+	
+	width: 500px;
+	position:absolute;
+	margin:0px;
+left: 870px;
+	bottom: -40px;
+	 
+	
+}
+.projectabout6{
+	width: 500px;
+	position:absolute;
+	margin:0px;
+	left: 870px;
+	bottom: -900px;
+	
+}
+	
